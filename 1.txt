@@ -6,4 +6,4 @@ new feature f1
 new feature f2
 hotfix 123123
 feature f3
-feature f4; work on f4;
+feature f4; work on f4; f4 done.
